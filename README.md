@@ -148,8 +148,7 @@ function mouseout()
 {
     document.getElementById("Photo5").style.width="200";
     document.getElementById("Photo5").style.height="300";
-}```
-
+}
 
 ## OUTPUT
 ![alt text](image/imageapp/static/image_gallery.png)

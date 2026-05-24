@@ -1,0 +1,42 @@
+function mousein()
+{
+    document.getElementById("Photo1").style.width="230";
+    document.getElementById("Photo1").style.height="320";
+}{
+    document.getElementById("Photo2").style.width="300";
+    document.getElementById("Photo2").style.height="400";
+}
+{
+    document.getElementById("Photo3").style.width="280";
+    document.getElementById("Photo3").style.height="400";
+}
+{
+    document.getElementById("Photo4").style.width="280";
+    document.getElementById("Photo4").style.height="400";
+}
+{
+    document.getElementById("Photo5").style.width="280";
+    document.getElementById("Photo5").style.height="400";
+}
+
+function mouseout()
+{
+    document.getElementById("Photo1").style.width="200";
+    document.getElementById("Photo1").style.height="300";
+}
+{
+    document.getElementById("Photo2").style.width="200";
+    document.getElementById("Photo2").style.height="300";
+}
+{
+    document.getElementById("Photo3").style.width="200";
+    document.getElementById("Photo3").style.height="300";
+}
+{
+    document.getElementById("Photo4").style.width="200";
+    document.getElementById("Photo4").style.height="300";
+}
+{
+    document.getElementById("Photo5").style.width="200";
+    document.getElementById("Photo5").style.height="300";
+}

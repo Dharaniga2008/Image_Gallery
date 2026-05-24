@@ -66,7 +66,7 @@ Publish the website in the given URL.
 gallery.css
 
 
-body {
+```body {
     background-color:bisque;
     text-align: center;
     margin-top: 50px;
@@ -100,7 +100,7 @@ body {
     left: -20px;
     position: relative;
 
-}
+}```
 
 
 
@@ -148,7 +148,7 @@ function mouseout()
 {
     document.getElementById("Photo5").style.width="200";
     document.getElementById("Photo5").style.height="300";
-}
+}```
 
 
 ## OUTPUT

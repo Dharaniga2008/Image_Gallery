@@ -66,7 +66,7 @@ Publish the website in the given URL.
 gallery.css
 
 
-```body {
+body {
     background-color:bisque;
     text-align: center;
     margin-top: 50px;
@@ -100,13 +100,13 @@ gallery.css
     left: -20px;
     position: relative;
 
-}```
+}
 
 
 
 
 style1.js:
-```
+
 function mousein()
 {
     document.getElementById("Photo1").style.width="230";

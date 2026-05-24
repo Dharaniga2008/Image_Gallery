@@ -62,7 +62,7 @@ Publish the website in the given URL.
         </footer>
     </body>
 </html>
-
+```
 gallery.css
 
 
